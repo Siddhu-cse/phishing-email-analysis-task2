@@ -1,0 +1,19 @@
+From: Microsoft Outlook <noreply@mícrosoft-support.com>
+To: You <youremail@example.com>
+Subject: [Action Required] Incoming Emails Are On Hold
+
+Dear User,
+
+We noticed that your Outlook mailbox has exceeded its storage limit. As a result, you are no longer able to receive new emails.
+
+To continue receiving emails and avoid permanent loss of data, please verify your account and increase your storage by clicking the link below:
+
+👉 [Increase Mailbox Storage](http://outlook-mail-support-verify.com)
+
+If no action is taken within 12 hours, your account will be suspended.
+
+Thank you for your prompt attention to this matter.
+
+Microsoft Mail Support Team
+
+© 2025 Microsoft Corporation. All rights reserved.
